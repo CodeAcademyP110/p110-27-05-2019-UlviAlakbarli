@@ -1,0 +1,7 @@
+C:\Users\Ulvi\source\repos\27 may hw\27 may hw\bin\Debug\27 may hw.exe.config
+C:\Users\Ulvi\source\repos\27 may hw\27 may hw\bin\Debug\27 may hw.exe
+C:\Users\Ulvi\source\repos\27 may hw\27 may hw\bin\Debug\27 may hw.pdb
+C:\Users\Ulvi\source\repos\27 may hw\27 may hw\obj\Debug\27 may hw.csprojAssemblyReference.cache
+C:\Users\Ulvi\source\repos\27 may hw\27 may hw\obj\Debug\27 may hw.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi\source\repos\27 may hw\27 may hw\obj\Debug\27 may hw.exe
+C:\Users\Ulvi\source\repos\27 may hw\27 may hw\obj\Debug\27 may hw.pdb
